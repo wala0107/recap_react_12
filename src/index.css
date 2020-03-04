@@ -1,0 +1,59 @@
+
+body{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.a{
+  list-style: none;
+}
+
+.bggrey{
+  background-color: rgb(255, 248, 184);
+}
+.bgpurple{
+  background-color: purple;
+}
+.bggris{
+  background-color: gray;
+}
+.bgvert{
+  background-color:green;
+color:blueviolet;
+}
+
+.col-5{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.carrered{
+  background-color:red;
+  width: 50px;
+  height: 50px;
+}
+
+.taille{
+  width: 70px;
+  height: 70px;
+}
+
+.divcalc{
+  width: 182px;
+}
+
+.w{
+  width: 190px;
+}
+
+.calculatrice{
+  width: 268px;
+
+}
+.size{
+  font-size: 50px;
+}
